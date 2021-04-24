@@ -1,10 +1,10 @@
-# c-react-nextjs
+# Project-nextJS-react
 ```
 <NLW /> Edition #05 🚀
 ```
 
-#### Podcastr
-This is a project developed during the Next Level Week, presented by @Rocketseat from April 19 to 25, 2021.
+#### Podcastr ⏪ ⏯️ ⏩ 🔀
+This is a project developed during the Next Level Week, presented by @Rocketseat from April, 2021.
 A set of tools was used to provide robust development with very interesting technologies and concepts.
 Understanding the concepts of SSR, SSG, and SPA.
 Route NextJS, context API, fundamentals SetState, Props, and State of ReactJS.
